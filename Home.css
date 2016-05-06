@@ -1,0 +1,121 @@
+body{
+    margin: auto;
+}
+
+p{
+    margin: 0;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.NavBar {
+    background-color: black;
+    margin:           0;
+    text-align:       center;
+    padding:          10px;
+    font-weight:      900;
+    font-size:        11px;
+    text-transform:   uppercase;
+    font-family:      'Arial', sans-serif;
+    color:            #5bbea9;
+    letter-spacing:   4px;
+}
+
+.ForLinks {
+
+    margin-right:    30px;
+    text-decoration: none;
+    color: #5bbea9;
+}
+
+.ForAll {
+    color:          #5bbea9;
+    letter-spacing: 6px;
+    font-family:    'Arial', sans-serif;
+    font-weight:    900;
+    text-transform: uppercase;
+    font-size:      50px;
+    text-align:     center;
+}
+
+.ForImg {
+    display: block;
+    margin:  auto;
+    padding: 15px;
+    width:   960px;
+    height:  400px;
+}
+
+.ForText {
+    text-align: center;
+    margin:     0 404px 0 449px;
+}
+
+.ForReg {
+    background-color: #d5d5d5;
+    padding:          10px;
+    border:           none;
+    margin:           2px;
+    width:            362px;
+    text-transform:   uppercase;
+    text-align:       center;
+    color:            white;
+    font-family:      'Arial', sans-serif;
+    letter-spacing:   2px;
+}
+
+.ForSpan {
+    font-family:    'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight:    900;
+}
+
+.ForForm{
+    text-align: center;
+}
+
+.ForComment {
+    padding: 10px;
+    width:   746px;
+    margin:  16px;
+}
+
+.ForSubmit {
+    font-size:      50px;
+    font-family:    'Arial', sans-serif;
+    color:          white;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom:  32px;
+}
+
+.ForFooter {
+    text-align: center;
+}
+
+.SecondLine {
+    font-size: 15px;
+    margin:    0;
+}
+
+.NowLeasing {
+    margin-top: -198px;
+}
+
+.OpenHouse{
+    margin: 150px 0 0 0;
+}
+
+.PhotoGallery {
+    color:            white;
+    background-color: #5bbea9;
+    border:           none;
+    padding:          9px 50px;
+    text-decoration:  none;
+    font-size:        x-small;
+    font-weight:      700;
+}
+
